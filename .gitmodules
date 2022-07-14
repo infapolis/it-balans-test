@@ -1,0 +1,3 @@
+[submodule "ext-js-gpl"]
+	path = ext-js-gpl
+	url = https://github.com/xantus/ext-js-gpl.git
